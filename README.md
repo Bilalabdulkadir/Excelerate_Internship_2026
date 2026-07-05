@@ -1,129 +1,65 @@
-# Excelerate Data Analyst Internship Portfolio
+# 🌍 Excelerate Internship 2026
 
-# 👋 Hi, I'm Bilal Abdulkadir
-
-Welcome to my Data Analytics Internship Portfolio. This repository showcases the projects I completed during the Excelerate Data Analyst Associate Internship.
-
-## About Me
-
-I am an IT Support professional with a strong interest in data analytics, business intelligence, and data-driven decision making. During this internship, I developed practical skills in data cleaning, exploratory data analysis, dashboard development, and data storytelling using industry-standard tools.
-
-## Internship Details
-
-- **Organization:** Excelerate (Vempower Ventures)
-- **Role:** Data Analyst Associate Intern
-- **Duration:** 6 July 2026 – 6 August 2026
-- **Mode:** Remote
-
-## Portfolio Projects
-
-### Week 1 – Exploratory Data Analysis (EDA)
-
-**Objective**
-- Clean raw data
-- Explore patterns and trends
-- Generate business insights
-
-**Tools**
-- Python
-- Pandas
-- Matplotlib
-- Jupyter Notebook
-
-**Skills**
-- Data Cleaning
-- Exploratory Data Analysis
-- Data Visualization
+**Intern:** Bilal Abdulkadir Muhammed  
+**Role:** Data Analyst Associate Intern  
+**Duration:** 6 July – 6 August 2026  
+**Organization:** Excelerate (Vempower Ventures)
 
 ---
 
-### Week 2 – Data Storytelling
+## 🚀 Internship Focus
 
-**Objective**
-Create a presentation that communicates insights clearly using charts and business recommendations.
-
-**Deliverables**
-- Insight presentation
-- Executive summary
-- Data visualizations
+I joined Excelerate’s Experiential Internship Program as a Data Analyst Associate Intern, where I applied Python, SQL, Power BI, and Looker Studio to transform raw data into actionable insights. The internship was designed to simulate real-world professional environments, emphasizing professional conduct, punctuality, active participation, and self-driven learning.
 
 ---
 
-### Week 3 – Data Pipeline
+## 🎯 Key Contributions
 
-**Objective**
-Build a simple data pipeline to automate cleaning and validation.
-
-**Skills**
-- Data Transformation
-- Data Validation
-- Python Scripting
+- **Week 1:** Performed data cleaning & exploratory analysis (EDA) on a public dataset using Python (Pandas, Matplotlib, Seaborn).  
+- **Week 2:** Built a storytelling presentation deck with visualizations, highlighting key insights and recommendations.  
+- **Week 3:** Developed a data pipeline with scripts for loading, cleaning, and validating datasets, plus a data dictionary.  
+- **Week 4:** Designed a live Looker Studio dashboard with KPIs, time-series charts, and interactive filters for stakeholders.  
 
 ---
 
-### Week 4 – Interactive Dashboard
+## 📂 Portfolio Deliverables
 
-**Objective**
-Design an interactive dashboard for stakeholders using Looker Studio.
-
-**Features**
-- KPI cards
-- Filters
-- Charts
-- Business recommendations
+- **EDA Notebook** → Structured dataset + 5 charts with insights.  
+- **Insight Story Deck** → 12-slide presentation + Loom walkthrough.  
+- **Data Pipeline Repo** → Clean scripts, validation logs, and documentation.  
+- **Looker Studio Dashboard** → Interactive report + case study PDF.  
 
 ---
 
-## Technologies Used
+## 🛠️ Tools & Technologies
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Google Sheets
-- Looker Studio
-- Git & GitHub
-
-## Skills Demonstrated
-
-- Data Cleaning
-- Data Analysis
-- Data Visualization
-- Dashboard Development
-- Data Storytelling
-- Problem Solving
-- Technical Documentation
-
-## Repository Structure
-
-```
-week-1-eda/
-week-2-storytelling/
-week-3-pipeline/
-week-4-dashboard/
-README.md
-LICENSE
-```
-
-## Learning Outcomes
-
-This internship strengthened my ability to:
-- Analyze real-world datasets
-- Create meaningful business insights
-- Build professional dashboards
-- Communicate findings effectively
-- Work collaboratively on data projects
-
-## Contact
-
-**Bilal Abdulkadir**
-
-📧 bilalabdulkadir286@gmail.com
-
-💼 LinkedIn: https://linkedin.com/in/bilalabdulkadir
-
-💻 GitHub: https://github.com/Bilalabdulkadir/Bilalabdulkadir
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- SQL for structured queries  
+- Power BI & Looker Studio for dashboards  
+- GitHub for version control & portfolio hosting  
 
 ---
 
-Thank you for visiting my portfolio!
+## 📈 Impact
+
+- Delivered data-driven recommendations that improved visibility of engagement trends.  
+- Strengthened governance by ensuring structured, transparent reporting.  
+- Built a hands-on analytics portfolio with 4 major projects, now showcased on GitHub.  
+
+---
+
+## 🎓 Professional Standards
+
+Guided by the Intern Handbook, I consistently:
+- Attended meetings on time with camera ON.  
+- Contributed actively in discussions and team collaborations.  
+- Submitted original work with clear documentation.  
+- Used AI responsibly for brainstorming and structuring, never as a substitute for critical thinking.  
+
+---
+
+## 📬 Contact
+Bilal Abdulkadir Muhammed  
+📧 bilalabdulkadir286@gmail.com  
+🌍 Adama, Oromia, Ethiopia  
+🔗 LinkedIn | GitHub | Portfolio
