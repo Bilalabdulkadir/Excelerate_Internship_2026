@@ -11,6 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: read
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -20,16 +21,16 @@ jobs:
         with:
           node-version: '18'
 
-      - name: (Optional) Build
-        run: |
-          # Add build commands here if your site requires a build step.
-          # e.g. npm ci && npm run build
-          echo "No build step configured"
-
       - name: Deploy to Netlify
-        uses: netlify/actions/cli@v3
+        uses: nwtgck/actions-netlify@v3
         with:
-          args: deploy --dir=. --prod --site=$NETLIFY_SITE_ID
+          publish-dir: '.'
+          production-deploy: true
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          deploy-message: 'Deploy from GitHub Actions'
+          enable-pull-request-comment: false
+          enable-commit-comment: false
         env:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+        timeout-minutes: 1
