@@ -9,7 +9,7 @@
 
 ## 🚀 Internship Focus
 
-I joined Excelerate’s Experiential Internship Program as a Data Analyst Associate Intern, where I applied Python, SQL, Power BI, and Looker Studio to transform raw data into actionable insights. The internship was designed to simulate real-world professional environments, emphasizing professional conduct, punctuality, active participation, and self-driven learning.
+I joined Excelerate's Experiential Internship Program as a Data Analyst Associate Intern, where I applied Python, SQL, Power BI, and Looker Studio to transform raw data into actionable insights.
 
 ---
 
@@ -28,6 +28,8 @@ I joined Excelerate’s Experiential Internship Program as a Data Analyst Associ
 - **Insight Story Deck** → 12-slide presentation + Loom walkthrough.  
 - **Data Pipeline Repo** → Clean scripts, validation logs, and documentation.  
 - **Looker Studio Dashboard** → Interactive report + case study PDF.  
+  - Deployed and hosted with automated CI/CD pipeline via Netlify.
+  - Real-time KPI tracking and stakeholder-ready visualizations.
 
 ---
 
@@ -37,6 +39,7 @@ I joined Excelerate’s Experiential Internship Program as a Data Analyst Associ
 - SQL for structured queries  
 - Power BI & Looker Studio for dashboards  
 - GitHub for version control & portfolio hosting  
+- Netlify for continuous deployment & hosting  
 
 ---
 
@@ -45,6 +48,7 @@ I joined Excelerate’s Experiential Internship Program as a Data Analyst Associ
 - Delivered data-driven recommendations that improved visibility of engagement trends.  
 - Strengthened governance by ensuring structured, transparent reporting.  
 - Built a hands-on analytics portfolio with 4 major projects, now showcased on GitHub.  
+- Automated dashboard deployment enabling real-time stakeholder access to insights.
 
 ---
 
