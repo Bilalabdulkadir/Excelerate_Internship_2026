@@ -120,9 +120,9 @@ This internship strengthened my ability to:
 
 📧 bilalabdulkadir286@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-linkedin
+💼 LinkedIn: https://linkedin.com/in/bilalabdulkadir
 
-💻 GitHub: https://github.com/your-github
+💻 GitHub: https://github.com/Bilalabdulkadir/Bilalabdulkadir
 
 ---
 
