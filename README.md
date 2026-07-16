@@ -1,241 +1,199 @@
-BA Bilal.
-About Roles Skills Achievements Projects Contact
-☀️ 🌙 ☰
-Excelerate Internship · 2026
+# Excelerate Internship 2026 Portfolio
 
-Hi, I'm Bilal Abdulkadir.
-I turn data, ideas, and AI into real-world outcomes.
-A multidisciplinary intern who spent July–August 2026 working across Data Analytics, Innovation Consulting, Digital Marketing, and AI Storytelling & Digital Media at Excelerate (Vempower Ventures).
+## Bilal Abdulkadir Muhammed
 
-View Projects Get in Touch
-📍 Adama, Oromia, Ethiopia
-🏢 Excelerate · Vempower Ventures
-📅 July – August 2026
-📊 Data 💡 Strategy 📱 Marketing 🤖 AI Story
-↓
-Program Overview
+**IT Support | Data Analytics | Innovation Consulting | Digital Marketing | AI Storytelling**
 
-Four roles. One growth arc.
-The Excelerate Early Internship 2026 challenged me to solve real business problems across four different disciplines — in a fully remote, international team.
+Welcome to my Excelerate Internship Portfolio. This repository showcases the projects, reports, dashboards, and deliverables I completed during the **Excelerate Early Internship Program** at **Vempower Ventures** from **July to August 2026**.
 
-4
-Internship Roles
-10+
-Tools & Platforms
-8w
-Program Duration
-100%
-Remote & Cross-functional
-Internship Roles
+During this internship, I collaborated with an international remote team, applying analytical thinking, business strategy, digital marketing, and AI tools to solve real-world business challenges.
 
-What I actually did
-Each role came with its own stakeholders, deliverables, and tools. Here's how I showed up.
+---
 
-📊
-Data Analyst Associate Intern
-Transforming raw business data into actionable insights through analysis, visualization, and reporting.
+## About Me
 
-Responsibilities
-Data cleaning and preprocessing
-Exploratory Data Analysis (EDA)
-SQL database management
-Dashboard development
-Business reporting & data storytelling
-Toolkit
-PythonSQLPandasNumPy MatplotlibPower BILooker StudioPostgreSQL
-Outcomes
-Converted raw datasets into meaningful business insights.
-Designed dashboards supporting data-driven decisions.
-Presented analytical findings to stakeholders.
-💡
-Innovation Consultant
-Identifying business opportunities through research, strategic thinking, and innovation frameworks.
+I am an Information Technology graduate with professional experience in IT Support and a strong interest in Data Analytics, Business Intelligence, Artificial Intelligence, and Digital Transformation. I enjoy using technology and data to solve problems and improve decision-making.
 
-Responsibilities
-Industry & competitor research
-Opportunity analysis & problem identification
-Strategic recommendations
-Framework development
-Toolkit
-SWOTDesign ThinkingBusiness Model Canvas BenchmarkingMarket Research
-Outcomes
-Identified high-impact business opportunities.
-Developed structured innovation frameworks.
-Delivered actionable strategic recommendations.
-📱
-Digital Marketing Trainee Intern
-Enhancing digital presence through social media strategy, content planning, and engagement analysis.
+---
 
-Responsibilities
-Social media auditing
-Engagement & campaign analysis
-Content planning & brand positioning
-Audience research
-Platforms
-LinkedInFacebookInstagramYouTube
-Outcomes
-Deeper understanding of audience engagement.
-Developed targeted content strategies.
-Produced actionable recommendations for digital growth.
-🤖
-AI in Storytelling & Digital Media Intern
-Leveraging AI to create compelling digital stories and multimedia experiences.
+# Internship Roles
 
-Responsibilities
-AI-assisted storytelling & script writing
-Prompt engineering
-Visual generation & content creation
-Creative workflow documentation
-Tools
-ChatGPTAI Image GenAI Writing Voice SynthesisDigital Design
-Outcomes
-Produced engaging AI-powered narratives.
-Developed creative digital media assets.
-Demonstrated practical applications of generative AI.
-Technical Skills
+## 📊 Data Analyst Associate
 
-What I brought to the table
-💻 Programming & Data
-Python
-SQL
-Pandas
-NumPy
-Data Cleaning
-Exploratory Data Analysis
-Matplotlib
-PostgreSQL
-📈 Analytics & BI
-Power BI
-Looker Studio
-Data Visualization
-Dashboard Design
-Storytelling with Data
-Reporting
-📣 Marketing & Innovation
-Social Media Strategy
-Audience Analytics
-Content Marketing
-Campaign Analysis
-Design Thinking
-SWOT & Benchmarking
-🤖 AI & Digital Media
-Prompt Engineering
-AI Storytelling
-AI Content Creation
-AI-assisted Research
-Voice Synthesis
-🧠 Professional
-Communication
-Team Collaboration
-Presentation
-Critical Thinking
-Problem Solving
-Project Management
-Remote Collaboration
-🎯 Career Interests
-IT Support
-Data Analytics
-Business Intelligence
-Data Visualization
-Artificial Intelligence
-Innovation Consulting
-Digital Transformation
-Technology Consulting
-Cloud Computing
-Digital Strategy
-Highlights
+### Responsibilities
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- SQL database management
+- Dashboard development
+- Business reporting
+- Data visualization
 
-Key Achievements & Learning
-🏆 What I delivered
-Completed projects across all four internship roles.
-Produced analytical dashboards and professional reports.
-Applied AI tools to storytelling and digital media production.
-Developed market research and innovation strategies.
-Created digital marketing content and campaign recommendations.
-Built a professional portfolio demonstrating technical & strategic capabilities.
-📚 What I learned
-Analyse complex datasets and translate them into business stories.
-Communicate insights through dashboards that people actually use.
-Apply innovation frameworks to ambiguous business problems.
-Design digital marketing strategies grounded in data.
-Create AI-powered content with prompt engineering.
-Work effectively within multidisciplinary, remote teams.
-Deliver professional presentations and documentation.
-Selected Work
+### Tools
+- Python
+- SQL
+- Pandas
+- NumPy
+- PostgreSQL
+- Matplotlib
+- Power BI
+- Looker Studio
 
-Projects & Deliverables
-A snapshot across the four tracks. Each card maps to a folder in the GitHub repository.
+---
 
-📊
-Data Analytics Track
-Python notebooks, SQL queries, Power BI & Looker Studio dashboards, business reports.
+## 💡 Innovation Consultant
 
-PythonSQLPower BILooker
-View on GitHub →
-💡
-Innovation Track
-Market research, competitor benchmarking, opportunity analysis, strategy reports.
+### Responsibilities
+- Market research
+- Competitor analysis
+- SWOT analysis
+- Opportunity identification
+- Strategic recommendations
+- Business Model Canvas
 
-SWOTDesign ThinkingCanvas
-View on GitHub →
-📱
-Digital Marketing Track
-Social media audits, content strategy, content calendars, campaign analysis.
+### Tools
+- Design Thinking
+- SWOT
+- Benchmarking
+- Business Model Canvas
 
-LinkedInInstagramYouTubeFB
-View on GitHub →
-🤖
-AI Storytelling Track
-AI-generated stories, scripts, visual assets, voice & media, workflow docs.
+---
 
-ChatGPTImage GenVoice
-View on GitHub →
-📂
-Full Repository: Excelerate_Internship_2026
-The complete portfolio — every folder, every README, every deliverable. The single source of truth for this internship.
+## 📱 Digital Marketing Trainee
 
-Open Repository →
-Journey
+### Responsibilities
+- Social media auditing
+- Audience research
+- Content planning
+- Campaign analysis
+- Brand positioning
+- Performance reporting
 
-Internship timeline
-Onboarding & Foundations
-Set up the workflow, met the mentors, scoped the four role tracks.
+### Platforms
+- LinkedIn
+- Facebook
+- Instagram
+- YouTube
 
-Data Analytics Sprint
-Cleaned real datasets, ran EDA, built SQL queries, shipped dashboards.
+---
 
-Innovation Consulting Sprint
-Market research, SWOT, opportunity analysis, strategic recommendations.
+## 🤖 AI Storytelling & Digital Media
 
-Digital Marketing Sprint
-Social audit, content calendar, campaign analysis across four platforms.
+### Responsibilities
+- Prompt engineering
+- AI-assisted writing
+- Story development
+- Digital content creation
+- Visual generation
+- Workflow documentation
 
-AI Storytelling Sprint
-Scripted, generated, voiced, and packaged AI-powered digital stories.
+### Tools
+- ChatGPT
+- AI Image Generation
+- AI Writing Tools
+- Prompt Engineering
 
-Final Presentation & Portfolio
-Consolidated deliverables into this professional portfolio site.
+---
 
-Let's connect
+# Repository Structure
 
-Open to opportunities
-If my work resonates — or you have a role that fits my interests — I'd love to hear from you.
+```text
+Excelerate_Internship_2026
+│
+├── Data_Analytics
+├── Innovation_Consulting
+├── Digital_Marketing
+├── AI_Storytelling
+├── Reports
+├── Presentations
+└── README.md
+```
 
-📧
-Email
-bilalabdulkadir286@gmail.com
+---
 
-💼
-LinkedIn
-linkedin.com/in/bilalabdulkadir
+# Technical Skills
 
-🐙
-GitHub
-github.com/BilalAbdulkadir
+### Programming & Data
+- Python
+- SQL
+- Pandas
+- NumPy
+- PostgreSQL
+- Data Cleaning
+- Data Analysis
+- Data Visualization
 
-Acknowledgements
-Sincere thanks to Excelerate (Vempower Ventures), my mentors, team leaders, and fellow interns for the collaborative learning environment that pushed me to grow professionally and creatively throughout the program.
+### Business Intelligence
+- Power BI
+- Looker Studio
+- Dashboard Development
+- Business Reporting
 
-© 2026 Bilal Abdulkadir Muhammed · Excelerate Internship Portfolio
+### Marketing & Strategy
+- Market Research
+- SWOT Analysis
+- Design Thinking
+- Content Strategy
+- Audience Analytics
 
-Built with care · Adama, Ethiopia 🌍
+### Artificial Intelligence
+- Prompt Engineering
+- AI Content Creation
+- AI Storytelling
+- Generative AI
+
+### Professional Skills
+- IT Support
+- Communication
+- Team Collaboration
+- Problem Solving
+- Critical Thinking
+- Presentation Skills
+- Project Management
+
+---
+
+# Key Achievements
+
+- Successfully completed four internship roles.
+- Built analytical dashboards and reports.
+- Performed business and market research.
+- Created AI-powered digital content.
+- Developed strategic business recommendations.
+- Collaborated effectively in an international remote team.
+- Strengthened technical and professional skills through real-world projects.
+
+---
+
+# Career Interests
+
+- IT Support
+- Data Analytics
+- Business Intelligence
+- Artificial Intelligence
+- Cloud Computing
+- Digital Transformation
+- Technology Consulting
+
+---
+
+# Connect With Me
+
+**Email:** bilalabdulkadir286@gmail.com
+
+**LinkedIn:** https://linkedin.com/in/bilalabdulkadir
+
+**GitHub:** https://github.com/BilalAbdulkadir
+
+**Location:** Adama, Oromia, Ethiopia
+
+---
+
+# Acknowledgements
+
+I sincerely thank **Excelerate (Vempower Ventures)**, my mentors, team leaders, and fellow interns for providing an inspiring and collaborative learning environment. This internship enhanced my technical expertise, analytical thinking, and professional development while preparing me for future opportunities in technology and data-driven careers.
+
+---
+
+⭐ Thank you for visiting my portfolio. Feel free to explore the repository and connect with me for collaboration, internship, or full-time opportunities.
+
+**© 2026 Bilal Abdulkadir Muhammed**
