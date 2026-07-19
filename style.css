@@ -501,6 +501,48 @@ section {
   flex-shrink: 0;
 }
 
+/* ---------------- Certifications ---------------- */
+
+.cert-card {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 20px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  overflow: hidden;
+  background: var(--panel);
+  max-width: 560px;
+}
+
+@media (min-width: 640px) {
+  .cert-card { grid-template-columns: 1fr; }
+}
+
+.cert-card img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-bottom: 1px solid var(--line);
+}
+
+.cert-meta {
+  padding: 18px 22px 24px;
+}
+
+.cert-title {
+  font-family: var(--display);
+  font-size: 1.05rem;
+  color: var(--paper);
+  margin: 4px 0 4px;
+}
+
+.cert-sub {
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  color: var(--paper-faint);
+  margin: 0;
+}
+
 /* ---------------- Interests ---------------- */
 
 .interest-row {
