@@ -1,12 +1,14 @@
 [build]
   publish = "."
-  command = ""
 
-[context.production.environment]
-  NODE_VERSION = "18"
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
 
 [[redirects]]
   from = "/*"
   to = "/index.html"
-  status = 200
-  force = true
+  status = 404
