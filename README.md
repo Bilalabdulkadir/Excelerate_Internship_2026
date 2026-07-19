@@ -71,6 +71,17 @@ I am an Information Technology graduate with professional experience in IT Suppo
 
 ---
 
+---
+
+## Certifications
+
+**Certificate of Achievement** — *Jump Start: Developing Your Emotional Intelligence Course*
+Saint Louis University × Excelerate · Completed May 4, 2026
+
+![Certificate of Achievement — Jump Start: Developing Your Emotional Intelligence, Saint Louis University x Excelerate](assets/certificate-slu-excelerate.png)
+
+---
+
 ## Repository Structure
 
 ```
