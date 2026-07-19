@@ -1,10 +1,9 @@
 # Excelerate Internship 2026 Portfolio
 
-## Bilal Abdulkadir Muhammed
+**Bilal Abdulkadir Muhammed**
+IT Support | Data Analytics | Innovation Consulting | Digital Marketing | AI Storytelling
 
-**IT Support | Data Analytics | Innovation Consulting | Digital Marketing | AI Storytelling**
-
-Welcome to my Excelerate Internship Portfolio. This repository showcases the projects, reports, dashboards, and deliverables I completed during the **Excelerate Early Internship Program** at **Vempower Ventures** from **July to August 2026**.
+Welcome to my Excelerate Internship Portfolio. This repository showcases the projects, reports, dashboards, and deliverables I completed during the Excelerate Early Internship Program at Vempower Ventures from July to August 2026.
 
 During this internship, I collaborated with an international remote team, applying analytical thinking, business strategy, digital marketing, and AI tools to solve real-world business challenges.
 
@@ -16,11 +15,11 @@ I am an Information Technology graduate with professional experience in IT Suppo
 
 ---
 
-# Internship Roles
+## Internship Roles
 
-## 📊 Data Analyst Associate
+### 📊 Data Analyst Associate
 
-### Responsibilities
+**Responsibilities**
 - Data cleaning and preprocessing
 - Exploratory Data Analysis (EDA)
 - SQL database management
@@ -28,21 +27,12 @@ I am an Information Technology graduate with professional experience in IT Suppo
 - Business reporting
 - Data visualization
 
-### Tools
-- Python
-- SQL
-- Pandas
-- NumPy
-- PostgreSQL
-- Matplotlib
-- Power BI
-- Looker Studio
+**Tools**
+`Python` · `SQL` · `Pandas` · `NumPy` · `PostgreSQL` · `Matplotlib` · `Power BI` · `Looker Studio`
 
----
+### 💡 Innovation Consultant
 
-## 💡 Innovation Consultant
-
-### Responsibilities
+**Responsibilities**
 - Market research
 - Competitor analysis
 - SWOT analysis
@@ -50,17 +40,12 @@ I am an Information Technology graduate with professional experience in IT Suppo
 - Strategic recommendations
 - Business Model Canvas
 
-### Tools
-- Design Thinking
-- SWOT
-- Benchmarking
-- Business Model Canvas
+**Tools**
+`Design Thinking` · `SWOT` · `Benchmarking` · `Business Model Canvas`
 
----
+### 📱 Digital Marketing Trainee
 
-## 📱 Digital Marketing Trainee
-
-### Responsibilities
+**Responsibilities**
 - Social media auditing
 - Audience research
 - Content planning
@@ -68,17 +53,12 @@ I am an Information Technology graduate with professional experience in IT Suppo
 - Brand positioning
 - Performance reporting
 
-### Platforms
-- LinkedIn
-- Facebook
-- Instagram
-- YouTube
+**Platforms**
+`LinkedIn` · `Facebook` · `Instagram` · `YouTube`
 
----
+### 🤖 AI Storytelling & Digital Media
 
-## 🤖 AI Storytelling & Digital Media
-
-### Responsibilities
+**Responsibilities**
 - Prompt engineering
 - AI-assisted writing
 - Story development
@@ -86,17 +66,14 @@ I am an Information Technology graduate with professional experience in IT Suppo
 - Visual generation
 - Workflow documentation
 
-### Tools
-- ChatGPT
-- AI Image Generation
-- AI Writing Tools
-- Prompt Engineering
+**Tools**
+`ChatGPT` · `AI Image Generation` · `AI Writing Tools` · `Prompt Engineering`
 
 ---
 
-# Repository Structure
+## Repository Structure
 
-```text
+```
 Excelerate_Internship_2026
 │
 ├── Data_Analytics
@@ -110,49 +87,26 @@ Excelerate_Internship_2026
 
 ---
 
-# Technical Skills
+## Technical Skills
 
-### Programming & Data
-- Python
-- SQL
-- Pandas
-- NumPy
-- PostgreSQL
-- Data Cleaning
-- Data Analysis
-- Data Visualization
+**Programming & Data**
+Python · SQL · Pandas · NumPy · PostgreSQL · Data Cleaning · Data Analysis · Data Visualization
 
-### Business Intelligence
-- Power BI
-- Looker Studio
-- Dashboard Development
-- Business Reporting
+**Business Intelligence**
+Power BI · Looker Studio · Dashboard Development · Business Reporting
 
-### Marketing & Strategy
-- Market Research
-- SWOT Analysis
-- Design Thinking
-- Content Strategy
-- Audience Analytics
+**Marketing & Strategy**
+Market Research · SWOT Analysis · Design Thinking · Content Strategy · Audience Analytics
 
-### Artificial Intelligence
-- Prompt Engineering
-- AI Content Creation
-- AI Storytelling
-- Generative AI
+**Artificial Intelligence**
+Prompt Engineering · AI Content Creation · AI Storytelling · Generative AI
 
-### Professional Skills
-- IT Support
-- Communication
-- Team Collaboration
-- Problem Solving
-- Critical Thinking
-- Presentation Skills
-- Project Management
+**Professional Skills**
+IT Support · Communication · Team Collaboration · Problem Solving · Critical Thinking · Presentation Skills · Project Management
 
 ---
 
-# Key Achievements
+## Key Achievements
 
 - Successfully completed four internship roles.
 - Built analytical dashboards and reports.
@@ -164,36 +118,27 @@ Excelerate_Internship_2026
 
 ---
 
-# Career Interests
+## Career Interests
 
-- IT Support
-- Data Analytics
-- Business Intelligence
-- Artificial Intelligence
-- Cloud Computing
-- Digital Transformation
-- Technology Consulting
+IT Support · Data Analytics · Business Intelligence · Artificial Intelligence · Cloud Computing · Digital Transformation · Technology Consulting
 
 ---
 
-# Connect With Me
+## Connect With Me
 
-**Email:** bilalabdulkadir286@gmail.com
-
-**LinkedIn:** https://linkedin.com/in/bilalabdulkadir
-
-**GitHub:** https://github.com/BilalAbdulkadir
-
-**Location:** Adama, Oromia, Ethiopia
+- **Email:** [bilalabdulkadir286@gmail.com](mailto:bilalabdulkadir286@gmail.com)
+- **LinkedIn:** [linkedin.com/in/bilalabdulkadir](https://linkedin.com/in/bilalabdulkadir)
+- **GitHub:** [github.com/BilalAbdulkadir](https://github.com/BilalAbdulkadir)
+- **Location:** Adama, Oromia, Ethiopia
 
 ---
 
-# Acknowledgements
+## Acknowledgements
 
-I sincerely thank **Excelerate (Vempower Ventures)**, my mentors, team leaders, and fellow interns for providing an inspiring and collaborative learning environment. This internship enhanced my technical expertise, analytical thinking, and professional development while preparing me for future opportunities in technology and data-driven careers.
-
----
+I sincerely thank Excelerate (Vempower Ventures), my mentors, team leaders, and fellow interns for providing an inspiring and collaborative learning environment. This internship enhanced my technical expertise, analytical thinking, and professional development while preparing me for future opportunities in technology and data-driven careers.
 
 ⭐ Thank you for visiting my portfolio. Feel free to explore the repository and connect with me for collaboration, internship, or full-time opportunities.
 
-**© 2026 Bilal Abdulkadir Muhammed**
+---
+
+© 2026 Bilal Abdulkadir Muhammed
